@@ -8,7 +8,7 @@ The increasing sophistication of generative AI necessitates robust tools for con
 The trained model is deployed through two interactive interfaces:
 - **Streamlit:** A feature-rich web application (`app.py`) has been deployed to **Streamlit Cloud**,
   offering a dynamic result display for image classification, confidence visualization, and error handling.\
-  You can access the live application [**Streamlit-Cloud**](https://detect-ai-vs-human-generated-images-iduedmthstucw83xzlmt5t.streamlit.app/).
+  You can access the live application [**Streamlit-Cloud**](https://detect-ai-vs-human-generated-images.streamlit.app/).
 - **Gradio:** A simple and quick web interface (`gr.Interface`) is set up to allow users to upload an image and get an immediate classification (AI-generated or Human-generated) along with a confidence score.
 
 ### Evaluation
